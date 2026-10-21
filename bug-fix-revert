@@ -1,8 +1,7 @@
-$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12679
 Pull Request: #12679
 Title: Bug fix revert
 State: closed
-Source fork: ruchitaaugalmugle70-boop/mcino-Introduction-to-Git-and-GitHub
+Source fork: ruchitaugalmugle70-boop/mcino-Introduction-to-Git-and-GitHub
 Source branch: bug-fix-revert
 Target repository: ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
 Target branch: main
